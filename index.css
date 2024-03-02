@@ -1,0 +1,20 @@
+table, th, td {
+    border:1px solid black;
+}
+.myDiv{
+    border: 5px outset red;
+    background-color: lightblue;
+    text-align: center;
+}
+
+.div {
+    background: black;
+    color: yellow;
+    border: solid;
+    text-align: center;
+}
+
+.pic {
+    width: 40%;
+   
+}
